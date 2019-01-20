@@ -1,0 +1,14 @@
+[
+    {"msisdn":"+6141","features":[{"apn":{"apnid":"a", "eqosid":"x"}}, {"apn":{"apnid": "b", "eqosid":"y"}}]},
+    {"msisdn":"+6142","features":[{"apn":{"apnid":"a", "eqosid":"x"}}, {"apn":{"apnid": "b", "eqosid":"y"}}]},
+    {"msisdn":"+6143","features":[{"apn":{"apnid":"c", "eqosid":"z"}}, {"apn":{"apnid": "a", "eqosid":"x"}}]},
+    {"msisdn":"+6144","features":[{"apn":{"apnid":"a", "eqosid":"x"}}, {"apn":{"apnid": "c", "eqosid":"z"}}]},
+    {"msisdn":"+6145","features":[{"apn":{"apnid":"b", "eqosid":"y"}}, {"apn":{"apnid": "a", "eqosid":"x"}}]},
+    {"msisdn":"+6146","features":[{"apn":{"apnid":"b", "eqosid":"y"}}, {"apn":{"apnid": "c", "eqosid":"z"}}]},
+    {"msisdn":"+6147","features":[{"apn":{"apnid":"a", "eqosid":"x"}}, {"apn":{"apnid": "a", "eqosid":"x"}}]},
+    {"msisdn":"+6148","features":[{"apn":{"apnid":"a", "eqosid":"x"}}, {"apn":{"apnid": "b", "eqosid":"y"}}]},
+    {"msisdn":"+6149","features":[{"apn":{"apnid":"c", "eqosid":"z"}}, {"apn":{"apnid": "b", "eqosid":"y"}}]},
+    {"msisdn":"+6140","features":[{"apn":{"apnid":"a", "eqosid":"x"}}, {"apn":{"apnid": "b", "eqosid":"y"}}]}
+]
+    
+ 

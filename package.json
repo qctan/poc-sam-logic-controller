@@ -1,0 +1,14 @@
+{
+  "name": "poc-sam-logic-controller",
+  "version": "1.0.0",
+  "description": "proof of concept for sam logic controller",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "chris tan",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
